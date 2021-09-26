@@ -10,7 +10,7 @@ bmc.pptx
 
 ---
 
-### Topic
+## Topic
 
 AR Tour for Dublin City 
 
@@ -18,13 +18,13 @@ AR Tour for Dublin City
 
 ---
 
-### Value Proposition
+## Value Proposition
 
 We will provide a tourism AR application which could guide users to travel Dublin city in a convenient and interesting way. 
 
 <br/>
 
-#### **Product Features**
+### Product Features
 
 - Augmented Reality: When users visit a tourist spot, they can browse detailed information and guidance through the AR interface.
 - Personalized content: Users can choose their preference including art, history, nature, sports, music, food, etc and create their unique tourism recommendations. Our application will also update the recommendations based on travel records.
@@ -33,7 +33,7 @@ We will provide a tourism AR application which could guide users to travel Dubli
 
 <br/>
 
-#### Pains
+### Pains
 
 - Content operation requires a lot of resources.
 - Need support from other applications such as Google Map and Eventbrite.
@@ -42,7 +42,7 @@ We will provide a tourism AR application which could guide users to travel Dubli
 
 <br/>
 
-#### Gain
+### Gain
 
 - Friendly and planned tourism.
 - Convenient to access more information than traditional tourism. 
@@ -54,7 +54,7 @@ We will provide a tourism AR application which could guide users to travel Dubli
 
 ---
 
-### Customer Segment
+## Customer Segment
 
 - Tourisms
 
@@ -78,7 +78,7 @@ Tourist spot companies such as museums, restaurants, sports arenas, transportati
 
 ---
 
-### Market-product Fit
+## Market-product Fit
 
 #### Identification of Markets
 

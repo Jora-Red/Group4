@@ -50,6 +50,8 @@ We will provide a tourism AR application which could guide users to travel Dubli
 
 <br/>
 
+<br/>
+
 ---
 
 ### Customer Segment
@@ -62,13 +64,13 @@ Tourisms use the application to browse attractions information, make travel plan
 
 - Tourism Companies
 
-Tourism companies can post their travel plans on the application. 
+Tourism companies can post their travel plans on the application, which might be chargeable. 
 
 <br/>
 
-- Tourist Spots (Museums, Restaurants, Sports Arenas, Transportation, etc.)
+- Tourist Spots
 
-
+Tourist spot companies such as museums, restaurants, sports arenas, transportation can place their own advertisement and events.
 
 <br/>
 

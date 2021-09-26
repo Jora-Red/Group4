@@ -2,11 +2,11 @@
 
 To do:  
 
-**Customer Workflow Diagram**
+Customer Workflow Diagram
 
-**Bmc attachment**
+bmc.pptx
 
-
+<br/>
 
 ---
 
@@ -14,7 +14,7 @@ To do:
 
 AR Tour for Dublin City 
 
-
+<br/>
 
 ---
 
@@ -22,7 +22,7 @@ AR Tour for Dublin City
 
 We will provide a tourism AR application which could guide users to travel Dublin city in a convenient and interesting way. 
 
-
+<br/>
 
 #### **Product Features**
 
@@ -31,16 +31,16 @@ We will provide a tourism AR application which could guide users to travel Dubli
 - Event and activities notification: The application will show local activities such as exhibition, live music, sports and cultural events. Users can add them to their travel plans. 
 - Real-time information: The application will show the restaurant or other attractions' discounts for the day. There is also crowd navagation to avoid busy locations.
 
-
+<br/>
 
 #### Pains
 
-- Content operation requires a lot of time
+- Content operation requires a lot of resources.
 - Need support from other applications such as Google Map and Eventbrite.
-- sdfdf
-- fd
+- Need strong customer service.
+- Need to maintain different app versions for different users. See Customer Segment section for details.
 
-
+<br/>
 
 #### Gain
 
@@ -48,7 +48,7 @@ We will provide a tourism AR application which could guide users to travel Dubli
 - Convenient to access more information than traditional tourism. 
 - Personalized services and recommendations based on interest. 
 
-
+<br/>
 
 ---
 
@@ -56,23 +56,23 @@ We will provide a tourism AR application which could guide users to travel Dubli
 
 - Tourisms
 
+Tourisms use the application to browse attractions information, make travel plans and get to know the latest activities.
+
+<br/>
+
+- Tourism Companies
+
+Tourism companies can post their travel plans on the application. 
+
+<br/>
+
+- Tourist Spots (Museums, Restaurants, Sports Arenas, Transportation, etc.)
 
 
 
+<br/>
 
-- Tourism companies with specific expertise
-
-
-
-
-
-- Companies (Museums, Restaurants, Sports Arenas, Transportation, etc.)
-
-
-
-
-
-
+<br/>
 
 ---
 
@@ -82,19 +82,19 @@ We will provide a tourism AR application which could guide users to travel Dubli
 
 
 
-
+<br/>
 
 #### Analysis of competition
 
 
 
-
+<br/>
 
 #### Personas for customers
 
 
 
-
+<br/>
 
 #### Market Value Proposition
 
@@ -105,13 +105,15 @@ Our value can be described as 'Simplify travel, enrich experience'. It can be en
 3. Personalized service: Users can choose the resources they want to know more about according to their preferences, which can improve their experience.
 4. Cultural communication: Making our users get access to historical and cultural materials easier, it can make contribution to protect and promote local history and culture. 
 
-
+<br/>
 
 #### Customer Workflow Diagram
 
 ! To do 
 
+<br/>
 
+<br/>
 
 ---
 
@@ -119,6 +121,10 @@ Our value can be described as 'Simplify travel, enrich experience'. It can be en
 
 
 
-
+<br/>
 
 ### Experiments
+
+
+
+<br/>

@@ -8,15 +8,13 @@ bmc.pptx
 
 <br/>
 
----
-
 ## Topic
 
 AR Tour for Dublin City 
 
 <br/>
 
----
+<br/>
 
 ## Value Proposition
 
@@ -52,8 +50,6 @@ We will provide a tourism AR application which could guide users to travel Dubli
 
 <br/>
 
----
-
 ## Customer Segment
 
 - Tourisms
@@ -76,29 +72,27 @@ Tourist spot companies such as museums, restaurants, sports arenas, transportati
 
 <br/>
 
----
-
 ## Market-product Fit
 
-#### Identification of Markets
+### Identification of Markets
 
 
 
 <br/>
 
-#### Analysis of competition
+### Analysis of competition
 
 
 
 <br/>
 
-#### Personas for customers
+### Personas for customers
 
 
 
 <br/>
 
-#### Market Value Proposition
+### Market Value Proposition
 
 Our value can be described as 'Simplify travel, enrich experience'. It can be envisioned as follows:
 
@@ -109,7 +103,7 @@ Our value can be described as 'Simplify travel, enrich experience'. It can be en
 
 <br/>
 
-#### Customer Workflow Diagram
+### Customer Workflow Diagram
 
 ! To do 
 
@@ -117,7 +111,7 @@ Our value can be described as 'Simplify travel, enrich experience'. It can be en
 
 <br/>
 
----
+## Experiment
 
 ### Hypothesis
 

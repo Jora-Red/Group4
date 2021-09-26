@@ -28,15 +28,18 @@ We will provide a tourism AR application which could guide users to travel Dubli
 - Personalized content: Users can choose their preference including art, history, nature, sports, music, food, etc and create their unique tourism recommendations. Our application will also update the recommendations based on travel records.
 - Event and activities notification: The application will show local activities such as exhibition, live music, sports and cultural events. Users can add them to their travel plans. 
 - Real-time information: The application will show the restaurant or other attractions' discounts for the day. There is also crowd navagation to avoid busy locations.
+- Regular feedback: Tourists' suggestions are significant for us. Our application will update our travel plan and other content based on feedback from the users.
 
 <br/>
 
 ### Pains
 
-- Content operation requires a lot of resources.
-- Need support from other applications such as Google Map and Eventbrite.
-- Need strong customer service.
-- Need to maintain different app versions for different users. See Customer Segment section for details.
+In the traditional way of travel:
+
+- It is often difficult for travelers to obtain enough information when visiting attractions, such as the history or the story behind the tourist spot.
+
+- Without a suitable and personalized travel plan, popular routes are usually chosen by tourists, which may cause problems such as congestion and insufficient tourist experience.
+- The comments and suggestions of tourists on all the attractions in the city have not been well integrated. If the travel application can collect feedback from travelers, it will be helpful for the government and travel companies to formulate products and plan activities.
 
 <br/>
 
@@ -45,6 +48,7 @@ We will provide a tourism AR application which could guide users to travel Dubli
 - Friendly and planned tourism.
 - Convenient to access more information than traditional tourism. 
 - Personalized services and recommendations based on interest. 
+- Combine sightseeing with latest events in the city to make a enjoyable travel plan.
 
 <br/>
 

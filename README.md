@@ -117,14 +117,49 @@ Our value can be described as 'Simplify travel, enrich experience'. It can be en
 
 ## Experiment
 
-### Hypothesis
+### For consumer test:
+#### Hypothesis
+We suppose the access to the guide and information of most tourist attractions, stores and restaurants are not convenient and fast, so we want to test whether people who live in or travel to Dublin need an APP to guide them and provide more detailed and visualised information of various sites of Dublin.
 
+#### Survey
+Q1 Do you think the guide and information of famous sites of Dublin are well provided? For example, the introduction of tourist spots and the item list of a shop.
+Answer: Yes/No
+
+Q2 Do you wish an APP can guide you and provide you more detailed and visualised information of attraction, shops etc.?
+Answer: Yes/No
+
+Q3 If you were in the first tour in Dublin, do you wish you had an APP which can support make travel plans?
+Answer: Yes/No
+
+Q4 Would you be willing to pay for such an APP? 
+Answer: Yes/No
+
+Q5 If Q4, what is the maximum rate you would be willing to pay?
+Answer: €1 - 100
+
+### For company, attracts etc. test:
+#### Hypothesis
+We suppose most travel companies, shops, restaurants etc. are willing to exposure themselves to more people and improve their market management and products for higher revenues. We want to test if these groups are willing to pay for an APP to generate higher exposure and buy user behaviour data for analysing.
+
+#### Survey
+Q1 Are you travel company or owner of shops or owner of restaurants or manager of attractions?
+Answer: Yes/No
+
+Q2 Do you wish an APP can generate higher exposure for your company (shop, restaurant, attraction)?
+Answer: Yes/No
+
+Q3 Do you wish an APP can help you collect more behaviour data of people in Dublin to improve your products?
+Answer: Yes/No
+
+Q4 If Q2 or Q3, Would you be willing to help promote such an APP?
+Answer: Yes/No
+
+Q5 Would you be willing to pay for such an APP? 
+Answer: Yes/No
+
+Q6 If Q5, what is the maximum rate you would be willing to pay?
+Answer: €10 - ∞
 
 
 <br/>
-
-### Experiments
-
-
-
 <br/>

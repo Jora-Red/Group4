@@ -56,9 +56,9 @@ In the traditional way of travel:
 
 ## Customer Segment
 
-- Tourisms
+- Tourists
 
-Tourisms use the application to browse attractions information, make travel plans and get to know the latest activities.
+Tourists use the application to browse attractions information, make travel plans and get to know the latest activities.
 
 <br/>
 

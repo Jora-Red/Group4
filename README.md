@@ -92,8 +92,100 @@ Tourist spot companies such as museums, restaurants, sports arenas, transportati
 
 ### Personas for customers
 
+#### Persona 1: College student, 21
+<br/>
 
+Daily life:
+<br/>
 
+- Full-time student
+<br/>
+
+- Always uses Google Maps to get destination information
+<br/>
+
+Common Problems:
+<br/>
+- Doesn't have many budgets for traveling
+<br/>
+- Doesn't want to spend lots of time planning her trip
+<br/>
+- Always gets lost while traveling in an unfamiliar city
+<br/>
+
+Common Questions
+<br/>
+- How can I get a planned trip without a tour group?
+<br/>
+- How can I use less money while traveling?
+<br/>
+
+Beliefs
+<br/>
+- Travel could be more achievable with less money
+<br/>
+
+#### Persona 2: Painter, 30
+
+Daily life:
+<br/>
+- works as a professional artist, part-time teacher
+<br/>
+- Loves traveling and nature
+<br/>
+- usually travels alone
+<br/>
+
+Common Problems:
+<br/>
+- Would love to get an introduction of the scenery but doesn't want to distract herself from enjoying the scenery by looking up information about the scenic spot on her phone or the map
+<br/>
+- Wants planned travel route
+<br/>
+- Doesn't want to bring lots of things while traveling
+<br/>
+
+Common Questions
+<br/>
+- How can I get more information while traveling without spending loads of time looking on my phone?
+ <br/>
+ 
+Beliefs
+<br/>
+- The journey should be light and portable
+
+#### Persona 3: Senior Citizen, 61
+<br/>
+Daily life:
+<br/>
+- Travels annually
+<br/>
+- Usually travels with a tour group
+<br/>
+- Seldom use digital maps
+<br/>
+
+Common Problems:
+<br/>
+- Doesn't know how to use digital maps
+<br/>
+- Always finds it's too hard to see the letters on the map clearly
+<br/>
+- Too much reliance on tour groups and less personal space
+<br/>
+
+Common Questions
+<br/>
+- where can I find age-friendly maps?
+<br/>
+- How can I travel without tour groups?
+<br/>
+
+Beliefs
+<br/>
+- Travel should be easier for the aged
+<br/>
+- There could be more age-friendly maps
 <br/>
 
 ### Market Value Proposition
